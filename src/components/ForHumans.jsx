@@ -26,13 +26,14 @@ const ForHumans = () => {
                      </div>
                   </div>
                </div>
-            </div>
+           
          </div>
          <div className="sub-humans">
             <div className="sub-humans-text">
                Click here to watch a case study overview showing how we were able to improve user engagement  by 400%.
             </div>
-         </div>
+            </div>
+            </div>
       </section>
    )
 }

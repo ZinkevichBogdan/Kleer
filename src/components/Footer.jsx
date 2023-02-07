@@ -65,18 +65,19 @@ const Footer = () => {
 
             </div>
           </div>
-          <div className="footer-bottom">
-            <div className="privacy-conteiner">
-              <div className="text-logo">
-                <p>kleer@ 2020. All rights reserved </p>
-              </div>
-              <div className="privacy-list">
-                <p>Privacy Policy </p>
-                <p>Terms of Use</p>
-              </div>
+
+        </div >
+        <div className="footer-bottom">
+          <div className="privacy-conteiner">
+            <div className="text-logo">
+              <p>kleer@ 2020. All rights reserved </p>
+            </div>
+            <div className="privacy-list">
+              <p>Privacy Policy </p>
+              <p>Terms of Use</p>
             </div>
           </div>
-        </div >
+        </div>
       </div>
     </footer>
   )

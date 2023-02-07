@@ -13,7 +13,7 @@
 
 .wich-solve {
    background: $white;
-   margin-bottom: 7px;
+  
 }
 
 .wich-solve-block {
@@ -204,7 +204,8 @@
    display: flex;
    justify-content: space-between;
    gap: 211px;
-   margin-bottom: 38px;
+   border-top:1px solid #EEEEEE; 
+   border-bottom:1px solid #EEEEEE; 
 
 
    .solutions-text {
@@ -219,20 +220,26 @@
       }
 
    }
+
+   img {
+      border-left:1px solid #EEEEEE; 
+      
+   }
 }
 
 .by-service {
-   margin-left: 32px;
+  padding: 38px 43px 62px 53px;
+   border-bottom:1px solid #EEEEEE;
 
 
    .by-service-title {
-
-      margin-bottom: 70px;
+margin-bottom: 70px;
+      
    }
 
    .be-service-row {
       display: flex;
-      margin-bottom: 90px;
+     
 
    }
 
@@ -273,8 +280,9 @@
 }
 
 .by-training {
-   margin-left: 32px;
-   margin-bottom: 95px;
+
+   padding: 38px 43px 62px 53px;
+   border-bottom:1px solid #EEEEEE;
 
 
    .by-service-title {

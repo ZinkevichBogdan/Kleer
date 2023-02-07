@@ -15,6 +15,7 @@
 .for-humans-block {
    position: relative;
    height: 800px;
+   padding-top: 76px;
    color: $lite-gray;
 
 
@@ -34,7 +35,7 @@
          width: 23px;
          height: 52px;
          left:350px;
-         bottom: 765px;
+         bottom: 690px;
          background-image: url('../../assets/img/elemsOfDesign/linerWhite.svg');
          z-index: 0;
 
@@ -45,7 +46,7 @@
          position: absolute;
          width: 39px;
          height: 88px;
-         top: 47px;
+         top: 124px;
        
         right: 320px;
          background-image: url('../../assets/img/elemsOfDesign/linerGrey.svg');
@@ -142,6 +143,7 @@
 .sub-humans {
    padding: 155px 0 79px 0;
    background: #161616;
+   
 
    .sub-humans-text {
       width: 435px;

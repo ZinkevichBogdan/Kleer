@@ -4,7 +4,7 @@ import graph1 from '../assets/img/elemsOfDesign/Graph-violet.svg'
 import graph2 from '../assets/img/elemsOfDesign/Graph-green.svg'
 import graph3 from '../assets/img/elemsOfDesign/Graph-orange.svg'
 import percent from '../assets/img/elemsOfDesign/Circle-per.svg'
-import cases from '../assets/img/elemsOfDesign/CaseImprove.svg'
+import cases from '../assets/img/elemsOfDesign/CaseImprove2.svg'
 import n1 from '../assets/img/service/1.svg'
 import n2 from '../assets/img/service/2.svg'
 import n3 from '../assets/img/service/3.svg'
@@ -16,7 +16,7 @@ import n7 from '../assets/img/service/7.svg'
 const WichSolve = () => {
    return (
       <section className='wich-solve'>
-         <div className='conteiner'>
+         <div className='conteiner-light'>
             <div className="wich-solve-block ">
                <div className="solve-text">
                   <h2>Which global problem do we solve</h2>

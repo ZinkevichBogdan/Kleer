@@ -79,7 +79,7 @@ let workersCards = [
 const Teams = () => {
    return (
       <section className='teams'>
-         <div className="conteiner">
+         <div className="conteiner-light">
             <div className='teams-block-text'>
                <div className="team-title">
                   <h2>Winning Teams choose Kleer</h2>

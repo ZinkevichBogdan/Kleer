@@ -58,7 +58,7 @@ const Blog = () => {
 
                      </div>)}
                </div>
-               <div className="navigations">
+               <div className="navigations black">
                   <div className="num-pages">
                      <p>3 of 12</p>
                   </div>

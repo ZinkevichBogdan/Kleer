@@ -10,8 +10,10 @@ import WichSolve from './WichSolve'
 const Main = () => {
   return (
     <main className='main'>
-      <ForHumans />
-      <Brands />
+   
+        <ForHumans />
+        <Brands />
+
       <WichSolve />
       <Teams />
       <Blog />

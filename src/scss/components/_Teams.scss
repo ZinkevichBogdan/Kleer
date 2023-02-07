@@ -6,6 +6,7 @@
 
 
 .teams-block-text {
+   padding-top: 100px;
 
    margin-bottom: 45px;
 
@@ -81,6 +82,7 @@
 
    .slider-conteiner {
       margin-bottom: 100px;
+   
    }
 }
 
@@ -88,10 +90,14 @@
    display: flex;
    justify-content: center;
    align-items: center;
+   
 
 
    .worker-block {
-      padding: 52px 60px 42px 60px;
+      border-top: 1px solid  #EEEEEE;
+      border-bottom: 1px solid  #EEEEEE;
+      
+      padding: 51px 27px 42px 27px;
       transition: all 0.4s linear;
 
       &:hover {
@@ -135,7 +141,10 @@
 .navigations {
    display: flex;
    justify-content: space-between;
-   padding: 12px 24px 12px 24px;
+   align-items: center;
+   padding: 12px 24px;
+ 
+   border-bottom: 1px solid  #EEEEEE;
 
 
    .num-pages {
@@ -185,9 +194,10 @@
 }
 
 .team-cards-conteiner {
-padding: 0px 49px 100px 49px;
 
+padding: 100px 0;
    h2 {
+      margin-left: 52px;
       font-style: normal;
       font-weight: 700;
       font-size: 54px;
